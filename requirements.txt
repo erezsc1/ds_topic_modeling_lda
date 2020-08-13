@@ -1,0 +1,4 @@
+wordcloud==1.7.0
+pandas==1.0.5
+pyLDAvis==2.1.2
+scikit_learn==0.23.2
