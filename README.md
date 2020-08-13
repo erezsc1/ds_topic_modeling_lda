@@ -1,7 +1,7 @@
 # LDA Topic Modeling
 
 This Library provides a wrapper for Topic Modeling using LDA. Provdies basic visualization.
-##Requirements
+## Requirements
 ```requirements.txt
 wordcloud==1.7.0
 pandas==1.0.5
@@ -9,7 +9,7 @@ pyLDAvis==2.1.2
 scikit_learn==0.23.2
 ```
 
-##Example:
+## Example:
 ```python
 from topic_modeling import TopicModeler
  
